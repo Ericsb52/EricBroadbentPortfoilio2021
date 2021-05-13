@@ -5,6 +5,7 @@ from settings import *
 vec = pg.math.Vector2
 
 
+
 class Car(pg.sprite.Sprite):
 
     def __init__(self,game,x,y,w,h,dir):
